@@ -1,0 +1,103 @@
+{
+  "quizzes": {
+    "1": {
+      "question": "Theo câu chuyện, nguyên nhân sâu xa dẫn đến cái chết của Arthur là gì?",
+      "options": [
+        "Sự bất cẩn của bản thân Arthur",
+        "Máy móc hỏng hóc không được sửa chữa",
+        "Hệ thống bóc lột giá trị thặng dư của chủ nghĩa tư bản",
+        "Người quản đốc quá độc ác"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Cái chết của Arthur không phải là tai nạn đơn thuần, mà là hệ quả tất yếu của một hệ thống coi trọng lợi nhuận hơn mạng sống con người."
+    },
+    "2": {
+      "question": "Karl Marx giải thích lợi nhuận của các nhà tư bản như Harrington chủ yếu đến từ đâu?",
+      "options": [
+        "Bán hàng hóa với giá cao hơn giá trị",
+        "Sự sáng tạo và quản lý hiệu quả",
+        "Giá trị thặng dư từ sức lao động không được trả công",
+        "Đầu cơ tích trữ trên thị trường"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Theo Marx, giá trị thặng dư là phần giá trị do công nhân tạo ra vượt quá giá trị sức lao động của họ, nhưng bị nhà tư bản chiếm đoạt."
+    },
+    "3": {
+      "question": "Tại sao Vladimir cần tìm kiếm đồng minh để chống lại Harrington?",
+      "options": [
+        "Vì một người không thể đánh bại cả hệ thống",
+        "Vì Vladimir không đủ thông minh",
+        "Vì Harrington có quá nhiều tiền",
+        "Vì pháp luật không cho phép"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Marx nhấn mạnh sức mạnh của giai cấp công nhân chỉ phát huy khi họ đoàn kết và tổ chức lại thành một lực lượng tập thể."
+    },
+    "4": {
+      "question": "Bài học quan trọng nhất từ thất bại của cuộc đình công là gì?",
+      "options": [
+        "Đấu tranh ôn hòa không bao giờ hiệu quả",
+        "Giai cấp tư sản sẵn sàng dùng bạo lực để bảo vệ quyền lợi",
+        "Công nhân không đủ dũng cảm",
+        "Harrington quá mạnh"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Marx cho rằng giai cấp thống trị sẽ không tự nguyện từ bỏ quyền lực, và bạo lực cách mạng là cần thiết."
+    },
+    "5": {
+      "question": "Theo Marx, 'bạo lực' đóng vai trò gì trong cách mạng?",
+      "options": [
+        "Là điều nên tránh bằng mọi giá",
+        "Là 'bà đỡ' cho xã hội mới ra đời từ xã hội cũ",
+        "Là dấu hiệu của sự thất bại",
+        "Chỉ nên dùng khi thật cần thiết"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Marx ví bạo lực cách mạng như 'bà đỡ' giúp xã hội mới ra đời từ xã hội cũ đang thai nghén nó."
+    },
+    "6": {
+      "question": "Tại sao cần có sự chuẩn bị kỹ lưỡng trước cách mạng?",
+      "options": [
+        "Vì cách mạng là may rủi",
+        "Vì cần thời gian để tuyên truyền và tổ chức quần chúng",
+        "Vì chờ đợi Harrington chết",
+        "Vì cần tích lũy đủ vũ khí"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Cách mạng thành công cần có sự chuẩn bị về lý luận, tổ chức và giác ngộ quần chúng."
+    },
+    "7": {
+      "question": "Yếu tố then chốt nào giúp cách mạng thành công?",
+      "options": [
+        "Sự ủng hộ của quân đội và quần chúng",
+        "Vũ khí hiện đại",
+        "Sự hỗ trợ từ nước ngoài",
+        "Yếu tố bất ngờ"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Cách mạng vô sản cần sự ủng hộ của đa số quần chúng và sự chuyển hóa của lực lượng vũ trang."
+    },
+    "8": {
+      "question": "Thách thức lớn nhất sau khi giành chính quyền là gì?",
+      "options": [
+        "Tổ chức lại sản xuất và xây dựng xã hội mới",
+        "Đối phó với kẻ thù bên ngoài",
+        "Trừng phạt những người ủng hộ chế độ cũ",
+        "Tìm người kế nhiệm"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Theo Marx, giành chính quyền chỉ là bước đầu, xây dựng xã hội mới mới là thách thức thực sự."
+    },
+    "9": {
+      "question": "Bài học tổng quát nhất từ toàn bộ hành trình là gì?",
+      "options": [
+        "Lý tưởng thuần túy không đủ để vận hành xã hội",
+        "Cách mạng là không cần thiết",
+        "Chủ nghĩa tư bản là tốt nhất",
+        "Mọi hệ thống đều như nhau"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Hành trình cho thấy sự phức tạp của việc hiện thực hóa lý tưởng và nhu cầu điều chỉnh cho phù hợp với thực tiễn."
+    }
+  }
+}

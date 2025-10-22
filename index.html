@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Marx's Quest - Visual Novel</title>
+    <link rel="stylesheet" href="css/style.css" />
+  </head>
+  <body>
+    <!-- Dashboard View -->
+    <div id="dashboardView" class="view active">
+      <header>
+        <h1>MARX'S QUEST</h1>
+        <p>Hành trình khám phá tư tưởng Marx - Visual Novel</p>
+      </header>
+      <div class="chapters-grid" id="chaptersGrid"></div>
+    </div>
+
+    <!-- Visual Novel View -->
+    <div id="visualNovelView" class="view">
+      <div id="backgroundContainer" class="background-container"></div>
+      <div id="characterContainer" class="character-container"></div>
+      <div id="storyChoices" class="story-choices-container"></div>
+      <div class="dialogue-container">
+        <div class="dialogue-box">
+          <div id="dialogueText" class="dialogue-text"></div>
+          <div class="click-indicator">▼ Click để tiếp tục</div>
+        </div>
+      </div>
+      <button id="backToDashboard" class="btn-back">← Dashboard</button>
+    </div>
+
+    <!-- Scripts -->
+    <script src="lib/ink.js"></script>
+    <script src="js/app.js"></script>
+  </body>
+</html>
